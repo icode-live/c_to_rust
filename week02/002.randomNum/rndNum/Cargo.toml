@@ -1,0 +1,7 @@
+[package]
+name = "rndNum"
+version = "0.1.0"
+authors = ["lerina <icode.lerina@gmail.com>"]
+
+[dependencies]
+rand = "*"
